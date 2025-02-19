@@ -1,5 +1,5 @@
 # Hyperledger Fabric Docs in E-Reader Format
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=flat-square)&logo=hyperledger&logoColor=white) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=flat-square) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()
 
 This is an unofficial compilation of the Hyperledger Fabrics Key Concepts documentation packaged in various e-reader friendly formats.
 
